@@ -24,4 +24,4 @@ Ce projet propose la conception d'une architecture cloud hybride sur AWS, combin
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/Salem-Sahmimi/Cloud-Computing
